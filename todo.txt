@@ -1,0 +1,12 @@
+- git - think that's done?
+- class relating to each table
+- - possibly for each serialized bit
+- a way of reading music folder onto db
+- - this sohuld also create readble (json?) text file, so if we want to wipe the db and restart we can just read the file
+- a way to read the existing playlist files
+- - both mine AND whatever the musicbee exports are
+- a validation process for identifying (and perhaps, later cleaning) bad data
+- - instances of bad data can be added to a log file
+- an api connected to the db 
+- - would be nice if this was callable from *my website* (that doesn't exist)	
+- unit tests
