@@ -1,4 +1,9 @@
 - git - think that's done?
+- - problems with git push in cmd
+- c# api hello world project 
+- - https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-9.0&tabs=visual-studio
+- - or https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-9.0&tabs=visual-studio
+- - decide using this https://learn.microsoft.com/en-us/aspnet/core/fundamentals/apis?view=aspnetcore-9.0
 - class relating to each table
 - - possibly for each serialized bit
 - a way of reading music folder onto db
